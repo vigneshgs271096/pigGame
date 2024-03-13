@@ -169,3 +169,18 @@ main {
 .hide {
   display: none;
 }
+
+.opacity {
+  opacity: 0;
+}
+
+.result {
+  display: flex;
+  position: absolute;
+  right: 35%;
+  top: 50%;
+  font-size: 4rem;
+  font-weight: 600;
+  color: #bf2e34;
+  text-shadow: 2px 2px #FF0000;
+}
